@@ -1,4 +1,3 @@
-export VUE_APP_COMMIT_REF="$COMMIT_REF"  ; npm run build
 var config = {
     style: 'mapbox://styles/0lmagalhaes0/ckapcx3lx06661ilyp9271rpi',
     accessToken: 'pk.eyJ1IjoiMGxtYWdhbGhhZXMwIiwiYSI6ImNrYXBjajExeDA0ZGEyc3Bhc3ZldHpxd3QifQ.GotIhSCb5LRUTRvv2skUbg',
